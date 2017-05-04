@@ -1,0 +1,1 @@
+C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Web.Api\obj\Debug\WebApi2Book.Web.Api.csprojResolveAssemblyReference.cache
