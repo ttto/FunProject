@@ -1,0 +1,4 @@
+C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Common.Tests\bin\Debug\WebApi2Book.Common.Tests.dll
+C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Common.Tests\bin\Debug\WebApi2Book.Common.Tests.pdb
+C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.dll
+C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Common.Tests\obj\Debug\WebApi2Book.Common.Tests.pdb
