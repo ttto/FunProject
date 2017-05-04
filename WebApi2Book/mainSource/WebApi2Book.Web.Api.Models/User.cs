@@ -9,7 +9,7 @@ namespace WebApi2Book.Web.Api.Models
     public class User
     {
 
-        //add 1 lkdkdfdkfkdffjdkfkdfj
+        //add 1
         private List<Link> _links;
 
         public long UserId { get; set; }
