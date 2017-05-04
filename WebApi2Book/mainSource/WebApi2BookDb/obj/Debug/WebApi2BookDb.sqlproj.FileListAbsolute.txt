@@ -7,3 +7,12 @@ C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2BookD
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\predeploy.sql
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\WebApi2BookDb.dll
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\bin\Debug\WebApi2BookDb.dacpac
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\bin\Debug\WebApi2BookDb.dll
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\bin\Debug\WebApi2BookDb.pdb
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\Model.xml
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\refactor.xml
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\postdeploy.sql
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\predeploy.sql
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\WebApi2BookDb.dll
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb

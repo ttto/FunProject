@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="WebApi2BookDb.dll" />
-			<Metadata Name="FileName" Value="C:\USERS\TTO\DOCUMENTS\SANDBOX\SANDBOXGITHUB\WEBAPI2BOOK\MAINSOURCE\WEBAPI2BOOKDB\OBJ\DEBUG\WEBAPI2BOOKDB.DLL" />
+			<Metadata Name="FileName" Value="C:\USERS\TTO\DOCUMENTS\SANDBOX\GITHUBINSANDBOX\WEBAPI2BOOK\MAINSOURCE\WEBAPI2BOOKDB\OBJ\DEBUG\WEBAPI2BOOKDB.DLL" />
 			<Metadata Name="AssemblyName" Value="WebApi2BookDb" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2BookDb\obj\Debug\WebApi2BookDb.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>

@@ -2,3 +2,7 @@ C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\bin\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.dll
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Web.Api.IntegrationTests\obj\Debug\WebApi2Book.Web.Api.IntegrationTests.pdb
