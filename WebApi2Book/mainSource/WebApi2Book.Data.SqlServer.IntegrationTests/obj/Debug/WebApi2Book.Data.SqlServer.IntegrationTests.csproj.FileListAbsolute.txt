@@ -2,3 +2,7 @@ C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
 C:\Users\tto\Documents\Sandbox\SandboxGithub\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\bin\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.dll
+C:\Users\tto\Documents\Sandbox\GithubInSandBox\WebApi2Book\mainSource\WebApi2Book.Data.SqlServer.IntegrationTests\obj\Debug\WebApi2Book.Data.SqlServer.IntegrationTests.pdb
